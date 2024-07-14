@@ -1,0 +1,11 @@
+.home {
+    text-align: center;
+  }
+  .search-box {
+    margin: 20px;
+  }
+  .card-main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }

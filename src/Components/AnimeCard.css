@@ -1,0 +1,13 @@
+.card-body {
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .card-image {
+    width: 200px;
+    height: 300px;
+  }
+  .card-title {
+    font-size: 1.2em;
+    color: #000;
+  }
